@@ -4,6 +4,7 @@
   environment.systemPackages = with pkgs; [
     btop
     yazi
+    w3m
     gh
 
     eza
